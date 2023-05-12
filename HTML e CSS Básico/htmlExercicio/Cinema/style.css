@@ -1,0 +1,19 @@
+.Hoje{
+  color: darkred;
+}
+
+.Amanha{
+  color: darkblue;
+}
+
+html a{
+  text-decoration: none;
+}
+
+h2 a{
+  color: seagreen;
+}
+
+html{
+  font-family: arial;
+}

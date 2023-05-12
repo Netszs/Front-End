@@ -1,0 +1,50 @@
+body{
+  font-family: arial;
+  margin: 50px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  color: #fff;
+  padding-left: 15px;
+}
+
+p{
+  color: #b2b2b2;
+  padding-left: 15px;
+}
+
+#carro{
+  background-color: #111;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+#bicicleta{
+  background-color: #111;
+  border-radius: 4px;
+  padding: 4px;
+  margin-top: 10px;
+}
+
+.preco{
+  color: #febe01;
+}
+
+.anokm{
+  color:  #febe01;;
+}
+
+.botao{
+  display: inline-block;
+  color: #332200;
+  background-color: #febe01;
+  border-radius: 4px;
+  padding: 7px;
+  margin: 15px;
+  margin-top: 0px;
+  text-decoration: none;
+}
